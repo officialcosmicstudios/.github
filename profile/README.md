@@ -1,3 +1,3 @@
 <p align="center">
-<img width="120px" src="https://raw.githubusercontent.com/FogNetwork/.github/main/img/FN2.png">
+<img width="480px" src="https://raw.githubusercontent.com/officialcosmicstudios/.github/main/Landscape.svg">
 </p>
