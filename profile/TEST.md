@@ -8,11 +8,11 @@ Hello, and welcome to Cosmic Studios! We are a small team of web engineers 🛠�
 
 When we say we are the most advanced ✨ online privacy service, don't take that lightly, we've got an abundance of features that you'll sure to love
 
-- Good looking 🔭♂️
+- Good looking 🔭
 - Privacy respecting 🔐
 - Advanced utilites 🪛
-- Open source (for the most part aha)
-- Bypasses for every search filter 📄
+- Open source (for the most part aha) 📄
+- Bypasses for every search filter 🛡️
 - User agent switcher ?? 🕵️‍
 
 Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
