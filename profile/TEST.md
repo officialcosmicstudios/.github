@@ -4,12 +4,12 @@
 
 Hello, and welcome to Cosmic Studios! We are a small team of web engineers 🛠️ dedicated to protecting the online privacy of students, and improving quality of life with useful utilites ⚡ and miscellaneous features! We've reached over 1200 people in only a few months 🤯. We've been at this since September 8th, 2022, and we don't plan on stopping anytime soon 🟢. We thank you all for your support, and we hope you enjoy your stay ❤️
 
-### 🍿 An interconnected community
+### 🧰 Features
 
-The open source community is the 💗 heart of GitHub and fundamental to how we build software today. See for yourself:
+When we say we are the most advanced ✨ online privacy service, don't take that lightly, we've got an abundance of features that you'll sure to love
 
-- [GitHub Sponsors](https://github.com/sponsors) helped support more than **5k** individuals and projects around the world 🌍
-- Open source projects on GitHub received a stunning **218 million** contributions 🚀 in the last year alone
+- Good looking 🌍
+- Privacy respecting
 - **Every minute** a developer creates a new release 🏄 for a public project on GitHub
 
 Now that we are talking about the important things ☝️, are you contributing to open source? Yes? Okay, you rock! 🎸 If not, we can help you get started! Open source software is made by people just like you. Learn more about [how to contribute](https://opensource.guide/).
