@@ -1,8 +1,8 @@
-## Hey, this is us 👋
+## Welcome 👋
 
-![An illustration showing a variety of differently themed Octocats. Monuments from different cities are indicated in the background like the Space Needle, Berlin Fernsehturm and Transamerica Pyramid.](https://user-images.githubusercontent.com/3369400/133268513-5bfe2f93-4402-42c9-a403-81c9e86934b6.jpeg)
+![The logo for Cosmic Studios, it contains light purple Japanese text, which roughly translates to 'Space Studios, and then some English text above that says 'Çosmic Studios', both images have a blur to make them neon](https://github.com/officialcosmicstudios/.github/blob/main/img/cs1.png)
 
-Yes, we are building GitHub on GitHub. In fact, we’ve been doing this since **October 19th, 2007**. That's when we made our first commit. Since then we pushed **over 2.5 million commits**, opened **over 1 million issues**, submitted roughly **650k pull requests** across **4357 repositories** from over **50 countries** 🤯. But that's just us. We are proud  to be part of the work of millions of developers, companies and robots across the solar system 🪐. Yes, [Robots](https://github.com/readme/featured/nasa-ingenuity-helicopter)!
+Hello, and welcome to Cosmic Studios! We are a small team of web engineers 🛠️ dedicated to protecting the online privacy of students, and improving quality of life with useful utilites ⚡ and miscellaneous features! We've reached over 1200 people in only a few months 🤯. We've been at this since September 8th, 2022, and we don't plan on stopping anytime soon 🟢. We thank you all for your support, and we hope you enjoy your stay ❤️
 
 ### 🍿 An interconnected community
 
