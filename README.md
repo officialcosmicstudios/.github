@@ -1,3 +1,4 @@
 <p align="center">
-<img width="120px" src="https://github.com/officialcosmicstudios/.github/blob/main/COSMIC%20STUDIOS.png">
+<img width="850px" src="https://github.com/officialcosmicstudios/.github/blob/main/cosmiclogo.png">
 </p>
+<h1 align="center">Cosmic Studios 🔮</h1>
